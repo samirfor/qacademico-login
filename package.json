@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "parse5": "^4.0.0",
+    "request": "^2.86.0",
+    "xmldom": "^0.1.27",
+    "xmlserializer": "^0.6.1",
+    "xpath": "^0.0.27"
+  }
+}
